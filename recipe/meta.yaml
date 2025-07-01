@@ -1,5 +1,5 @@
 {% set name = "photochem_clima_data" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Nicholaswogan/photochem_clima_data/archive/v{{ version }}.tar.gz
-  sha256: c26917301b380ab17c040b612627afc4703eda6e13291cd9141d6b74d0720950
+  sha256: c3ee9de853c3d2960def9415bc178942315b5df8f05aa486fabafedf59f83527
 
 build:
   noarch: python
@@ -23,7 +23,7 @@ requirements:
     - python >=3.7
     - h5py
     - pyyaml
- 
+
 test:
   imports:
     - photochem_clima_data
