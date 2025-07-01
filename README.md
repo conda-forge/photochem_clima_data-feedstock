@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-photochem_clima_data-green.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-photochem__clima__data-green.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/photochem_clima_data.svg)](https://anaconda.org/conda-forge/photochem_clima_data) |
 
 Installing photochem_clima_data
 ===============================
